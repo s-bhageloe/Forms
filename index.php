@@ -1,13 +1,15 @@
-<div class= "box"> 
+<div class= "inloggen-form"> 
 
+<h1>Inloggen</h1>
 
 <form>
- <input type="text" name="gebruikersnaam" placeholder=" "><br>
- <input type="password" name="wachtwoord" placeholder=" "><br>
+	
+ <input type="text" name="gebruikersnaam" placeholder="Gebruikersnaam"><br>
+ <input type="password" name="wachtwoord" placeholder="Wachtwoord"><br>
 <button type="submit" class="button">log in</button><br>
 
-<a class="vergeten" href=" ">Wachtwoord vergeten</a><br>
-<a class="vergeten" href=" ">Maak een nieuw account aan</a>
-</form>
+<a class="vergeten" href="http://localhost/project1/signup.php">Maak een nieuw account aan</a><br>
+<a class="vergeten" href=" ">Wachtwoord vergeten</a>
 
+</form>
 </div>
