@@ -13,8 +13,6 @@
 
  <button type="submit" class="button">Maak account aan</button><br>
 
-<a class="vergeten" href=" ">Wachtwoord vergeten</a><br>
-<a class="vergeten" href=" ">Maak een nieuw account aan</a>
 </form>
 
 </div>
