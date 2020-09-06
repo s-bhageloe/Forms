@@ -1,6 +1,7 @@
-<div class= "box"> 
+<div class= "aanmaken-form"> 
 
 <h1>Sign Up</h1>
+
 <form>
 
  <input type="text" name="Voornaam" placeholder="Voornaam"><br>
@@ -14,5 +15,4 @@
  <button type="submit" class="button">Maak account aan</button><br>
 
 </form>
-
 </div>
